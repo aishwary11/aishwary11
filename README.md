@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Expert in React.js, Express.js, Node.js, and a versatile range of development practices including frontend, backend, and mobile app development.<br>Loves to code
+👨‍💻Expert in React.js, Express.js, Node.js, and a versatile range of development practices, including frontend, backend, and mobile app development.
 
 
 ## 🌐 Socials:
